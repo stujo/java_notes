@@ -16,6 +16,10 @@ java_notes
 
 * [J2EE7 Download](http://www.oracle.com/technetwork/java/javaee/downloads/java-ee-sdk-7-downloads-1956236.html) 
 
+* Shell Customization
+  * Terminal Preferences  
+  * ``` ~/java_setup.sh ```
+
 
 * [J2EE 7 Developer Bundle (samples and jdk)](http://www.oracle.com/technetwork/java/javaee/downloads/java-ee-7-sdk-with-jdk-u45-2066865.html)
   * ```chmod +x ./java_ee_sdk-7-jdk7-macosx-x64.sh ```
