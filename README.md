@@ -18,6 +18,12 @@ java_notes
 
 * [http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 
+#Java Certifications
+
+* [http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer1.html](http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer1.html)
+* [http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer2.html](http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer2.html)
+
+
 #JUnit
 
 * [http://www.vogella.com/tutorials/JUnit/article.html](http://www.vogella.com/tutorials/JUnit/article.html)
