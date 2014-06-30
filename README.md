@@ -24,6 +24,8 @@ java_notes
 
 * [http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 
+* [JavaSE1.5 Annotations](http://docs.oracle.com/javase/1.5.0/docs/guide/language/annotations.html)
+
 #Java Certifications
 
 * [http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer1.html](http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer1.html)
