@@ -39,3 +39,6 @@ java_notes
 * [Dependency Injection](https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7)
 
 * [Aspect Oriented Programming](http://docs.spring.io/spring/docs/2.0.x/reference/aop.html) 
+
+#JSRs
+* [Specifications for JavaSE/EE](https://www.youtube.com/watch?v=vvtuFLz2prk)
