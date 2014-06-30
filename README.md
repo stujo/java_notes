@@ -27,6 +27,8 @@ java_notes
 * [http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer1.html](http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer1.html)
 * [http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer2.html](http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer2.html)
 
+#JavaDB
+* [Java DB in JDK 7](https://www.youtube.com/watch?v=Ua1y4RoBQUo)
 
 #JUnit
 
