@@ -12,6 +12,18 @@ java_notes
 
 * [An Introduction to the Java EE Platform](http://docs.oracle.com/javaee/7/firstcup/doc/intro.htm)
 
+* [Java Versions](http://en.wikipedia.org/wiki/Java_version_history) 
+  * JDK - Prior to Java 2 
+  * J2SE - Java 2 Platform Standard Edition (c 1998)
+  * J2EE - Java 2 Platform, Enterprise Edition
+  * J2ME - Java 2 Platform, Micro Edition
+
+# Components
+  * JDBC
+  * JNDI
+  * JDBC
+  * JDBC
+
 #Java Tutorials
 
 * [http://docs.oracle.com/javase/tutorial/index.html](http://docs.oracle.com/javase/tutorial/index.html)
