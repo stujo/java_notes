@@ -1,10 +1,15 @@
 java_notes
 ==========
 
-#Java Download and Install
+#Java Getting Started
 * [Index](http://www.oracle.com/technetwork/java/index.html)
 
+* [Getting Started](http://docs.oracle.com/javase/tutorial/getStarted/index.html)
+
+* [Java Basics](http://docs.oracle.com/javase/tutorial/java/index.html)
+
 #Java Tutorials
+
 
 * [http://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html](http://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html)
 
