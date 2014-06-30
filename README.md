@@ -21,7 +21,7 @@ java_notes
 # Components
   * JDBC
   * JNDI
-  * JDBC
+  * Regular Expressions
   * JDBC
 
 #Java Tutorials
@@ -52,6 +52,8 @@ java_notes
 
 #Maven
 * mvn archetype:generate
+* [Maven Archetype from Eclipse](http://www.avajava.com/tutorials/lessons/how-do-i-perform-an-archetype-create-from-eclipse.html)
+* [Maven Project Import](http://www.avajava.com/tutorials/lessons/how-do-i-import-a-maven-project-into-eclipse.html)
 
 #Spring
 
