@@ -22,8 +22,6 @@ java_notes
 
 * [http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 
-* [JPA/JSF Tutorial](http://wiki.eclipse.org/EclipseLink/Examples/JPA/JSF_Tutorial)
-
 #Java Certifications
 
 * [http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer1.html](http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer1.html)
