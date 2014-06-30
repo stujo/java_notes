@@ -12,7 +12,12 @@ java_notes
 
 * [An Introduction to the Java EE Platform](http://docs.oracle.com/javaee/7/firstcup/doc/intro.htm)
 
+* [JDK 7 Download](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
+
 * [J2EE 7 Developer Bundle (samples and jdk)](http://www.oracle.com/technetwork/java/javaee/downloads/java-ee-7-sdk-with-jdk-u45-2066865.html)
+  * ```chmod +x ./java_ee_sdk-7-jdk7-macosx-x64.sh ```
+  * ```export DISPLAY=:0```
+  * ```sh ./java_ee_sdk-7-jdk7-macosx-x64.sh```
 
 
 * [Java Versions](http://en.wikipedia.org/wiki/Java_version_history) 
