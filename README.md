@@ -56,6 +56,8 @@ java_notes
 
 * [JavaSE1.5 Annotations](http://docs.oracle.com/javase/1.5.0/docs/guide/language/annotations.html)
 
+* [User Input (Scanner)](http://www.programmingsimplified.com/java/source-code/java-program-take-input-from-user)
+
 #Java Certifications
 
 * [http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer1.html](http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer1.html)
@@ -93,3 +95,4 @@ java_notes
 
 #EJB
 * [Annotations](http://docs.oracle.com/cd/E15051_01/wls/docs103/ejb30/annotations.html)
+
