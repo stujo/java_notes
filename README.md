@@ -34,6 +34,9 @@ java_notes
 
 * [http://www.vogella.com/tutorials/JUnit/article.html](http://www.vogella.com/tutorials/JUnit/article.html)
 
+#Maven
+* mvn archetype:generate
+
 #Spring
 
 * [Dependency Injection](https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7)
