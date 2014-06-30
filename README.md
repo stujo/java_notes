@@ -48,8 +48,10 @@ java_notes
 
 #JUnit
 
+* [http://junit.org/](http://junit.org/)
 * [http://www.vogella.com/tutorials/JUnit/article.html](http://www.vogella.com/tutorials/JUnit/article.html)
-
+* [Maven Repository: junit/junit](http://mvnrepository.com/artifact/junit/junit)
+* 
 #Maven
 * mvn archetype:generate
 * [Maven Archetype from Eclipse](http://www.avajava.com/tutorials/lessons/how-do-i-perform-an-archetype-create-from-eclipse.html)
