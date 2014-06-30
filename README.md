@@ -58,6 +58,8 @@ java_notes
 
 * [User Input (Scanner)](http://www.programmingsimplified.com/java/source-code/java-program-take-input-from-user)
 
+* [jMockit](http://abhinandanmk.blogspot.com/2012/06/jmockit-tutoriallearn-it-today-with.html)
+
 #Java Certifications
 
 * [http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer1.html](http://docs.oracle.com/javase/tutorial/extra/certification/javase-7-programmer1.html)
