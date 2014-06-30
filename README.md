@@ -10,6 +10,7 @@ java_notes
 
 #Java Tutorials
 
+* [http://docs.oracle.com/javase/tutorial/java/TOC.html](http://docs.oracle.com/javase/tutorial/java/TOC.html)
 
 * [http://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html](http://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html)
 
