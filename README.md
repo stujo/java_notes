@@ -94,7 +94,8 @@ java_notes
 #Videos
 * [Lean Parts](https://www.youtube.com/watch?v=vvtuFLz2prk)
 
-
+#Regex
+* [regex/Pattern.html](http://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html)
 #EJB
 * [Annotations](http://docs.oracle.com/cd/E15051_01/wls/docs103/ejb30/annotations.html)
 
