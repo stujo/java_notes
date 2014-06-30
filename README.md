@@ -40,5 +40,11 @@ java_notes
 
 * [Aspect Oriented Programming](http://docs.spring.io/spring/docs/2.0.x/reference/aop.html) 
 
+#Java Community
+* [JCP](https://jcp.org/en/home/index)
+
 #JSRs
-* [Specifications for JavaSE/EE](https://www.youtube.com/watch?v=vvtuFLz2prk)
+* [Specifications for JavaSE/EE](https://jcp.org/en/jsr/platform?listBy=2&listByType=platform)
+
+#Videos
+* [Lean Parts](https://www.youtube.com/watch?v=vvtuFLz2prk)
