@@ -12,7 +12,9 @@ java_notes
 
 * [An Introduction to the Java EE Platform](http://docs.oracle.com/javaee/7/firstcup/doc/intro.htm)
 
-* [J2EE7 with JDK](http://www.oracle.com/technetwork/java/javaee/downloads/java-ee-7-sdk-with-jdk-u45-2066865.html)
+* [--J2EE7 with JDK--](http://www.oracle.com/technetwork/java/javaee/downloads/java-ee-7-sdk-with-jdk-u45-2066865.html)
+
+* [J2EE7 with SDK](http://www.oracle.com/technetwork/java/javaee/downloads/java-ee-sdk-7-downloads-1956236.html)
 
 
 * [Java Versions](http://en.wikipedia.org/wiki/Java_version_history) 
