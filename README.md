@@ -20,6 +20,9 @@ java_notes
   * Terminal Preferences  
   * ``` ~/java_setup.sh ```
 
+* [IntelliJ](http://www.jetbrains.com/idea/)
+  * Tools->Create command line launcher
+
 
 * [J2EE 7 Developer Bundle (samples and jdk)](http://www.oracle.com/technetwork/java/javaee/downloads/java-ee-7-sdk-with-jdk-u45-2066865.html)
   * ```chmod +x ./java_ee_sdk-7-jdk7-macosx-x64.sh ```
