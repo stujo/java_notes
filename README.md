@@ -8,6 +8,10 @@ java_notes
 
 * [Java Basics](http://docs.oracle.com/javase/tutorial/java/index.html)
 
+* [Java Platform Standard Edition 7 Documentation](http://docs.oracle.com/javase/7/docs/index.html) 
+
+* [An Introduction to the Java EE Platform](http://docs.oracle.com/javaee/7/firstcup/doc/intro.htm)
+
 #Java Tutorials
 
 * [http://docs.oracle.com/javase/tutorial/java/TOC.html](http://docs.oracle.com/javase/tutorial/java/TOC.html)
