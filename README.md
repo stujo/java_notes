@@ -99,3 +99,21 @@ java_notes
 #EJB
 * [Annotations](http://docs.oracle.com/cd/E15051_01/wls/docs103/ejb30/annotations.html)
 
+
+#FAQ
+##Java Hello World
+* What is the difference between JDK, J2SE and J2EE?
+* How do you run a java application?
+* How does a java application access it's arguments?
+* What is the ```CLASSPATH````?
+* What is ```javac``?
+* What is a ```jre``?
+* What is an ```executable jar file```?
+* What does the java compiler do?
+* What is ```JAVA_HOME```?
+* What is a ```JSR```?
+* What is ```JCP```?
+
+
+
+
