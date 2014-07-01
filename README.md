@@ -102,11 +102,15 @@ java_notes
 
 #FAQ
 * ```JDK``` Java SE Development Kit
-  * includes compiler
-  * other tools 
+  * includes ```javac``` compiler
+  * other tools ```javap```, ```jar```, debugging tools
   * and a ```JRE```...
 
 * ```JRE``` Java Runtime Environment runs java applications
+  * ```JVM``` plus ```javaw```, ```class files``` and ```libraries``` like util, math, lang
+
+* ```JVM``` Java Virtual Machine runs byte code
+  * ```java``` 
   * ```$ java -fullversion``` ->  ```java full version "1.7.0_60-b19"```
   * ```which java``` -> ```/usr/bin/java```
   * ```ls -la /usr/bin/java``` -> ```lrwxr-xr-x  1 root  wheel  74 Nov  9  2013 /usr/bin/java -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/java```
@@ -114,11 +118,16 @@ java_notes
 Java(TM) SE Runtime Environment (build 1.7.0_60-b19)
 Java HotSpot(TM) 64-Bit Server VM (build 24.60-b09, mixed mode)```
 
+
 * ```Java SE``` - Java Standard Edition
   * ```J2SE``` is an older name
+  * Java SE is a set of  Specifications
 
 * ```Java EE``` - Java Enterprise Edition
   * ```J2EE``` is an older name
+  * Java EE is a set of  Specifications
+
+* What is Glassfish?
 
 * How do you run a java application?
 * How does a java application access it's arguments?
