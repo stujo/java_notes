@@ -102,6 +102,7 @@ java_notes
 #Tomcat
 * I used ```brew install tomcat6``` but you could try another method
 * [Install on OSX](http://wolfpaulus.com/jounal/mac/tomcat7/)
+* [Deploying a WebApp](http://tomcat.apache.org/tomcat-6.0-doc/appdev/deployment.html)
 
 #FAQ
 * ```JDK``` Java SE Development Kit
