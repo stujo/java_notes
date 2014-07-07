@@ -141,6 +141,11 @@ Java HotSpot(TM) 64-Bit Server VM (build 24.60-b09, mixed mode)```
   * ```$JAVA_HOME``` ->  ```/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home```
 * What is a ```JSR```?
 * What is ```JCP```?
+* What is ```JME``` or ```Java Micro Edition```?
+* What is ```Java Web Start```?
+* What is the ```Byte-code Verifier```?
+  * [http://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html#jvms-4.10.2.2](http://docs.oracle.com/javase/specs/jvms/se7/html/jvms-4.html#jvms-4.10.2.2)
+
 
 
 
