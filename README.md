@@ -135,6 +135,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 24.60-b09, mixed mode)```
 * What is ```javac``?
 * What is a ```jre``?
 * What is a ```RIA``?
+  * [http://docs.oracle.com/javase/7/docs/technotes/guides/jweb/index.html](http://docs.oracle.com/javase/7/docs/technotes/guides/jweb/index.html)
 * What is an ```executable jar file```?
 * What does the java compiler do?
 * What is ```JAVA_HOME```?
