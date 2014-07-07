@@ -100,6 +100,7 @@ java_notes
 * [Annotations](http://docs.oracle.com/cd/E15051_01/wls/docs103/ejb30/annotations.html)
 
 #Tomcat
+* I used ```brew install tomcat6``` but you could try another method
 * [Install on OSX](http://wolfpaulus.com/jounal/mac/tomcat7/)
 
 #FAQ
