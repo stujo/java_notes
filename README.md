@@ -99,6 +99,8 @@ java_notes
 #EJB
 * [Annotations](http://docs.oracle.com/cd/E15051_01/wls/docs103/ejb30/annotations.html)
 
+#Tomcat
+* [Install on OSX](http://wolfpaulus.com/jounal/mac/tomcat7/)
 
 #FAQ
 * ```JDK``` Java SE Development Kit
